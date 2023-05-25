@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<manifest>
- <remote name="origin" fetch="https://github.com/yionhit/" review="https://github.com/yionhit"/>
- <default revision="master" remote="origin" sync-j="4" />
- <project path="source/security" name="security" />
- <project path="source/safety" name="safety" />
- <project path="source/slt" name="slt" />
-</manifest>
